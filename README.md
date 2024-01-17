@@ -3,7 +3,7 @@
 
 
 ## 📋 Índice
-- [Link do projeto:](https://finandolopes.github.io/Space-Shooter-DIO/)
+- [Link do projeto:](https://finandolopes.github.io/Dino_Game/)
 
 - [📖 Sobre](#-Sobre)
 - [🚀 Tecnologias utilizadas](#-Tecnologias-utilizadas)
